@@ -1,0 +1,57 @@
+{
+  "uid" : "4df87acd4b7e1f4d",
+  "name" : "test_login_failure[data1-Missing email or username]",
+  "fullName" : "tests.post.test_login.TestLogin#test_login_failure[data1-Missing email or username]",
+  "historyId" : "d264ba2dae0440c487065f6bc43f5f1a",
+  "time" : {
+    "start" : 1533894044368,
+    "stop" : 1533894045047,
+    "duration" : 679
+  },
+  "description" : "\n        Попытки с неполными или пуcтыми парами логин/пароль\n        :data: входной набор\n        :error: ответ с ошибкой\n        ",
+  "descriptionHtml" : "<pre><code>    Попытки с неполными или пуcтыми парами логин/пароль\n    :data: входной набор\n    :error: ответ с ошибкой\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "host",
+    "value" : "User-pc"
+  }, {
+    "name" : "thread",
+    "value" : "10832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.post.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{}"
+  }, {
+    "name" : "error",
+    "value" : "'Missing email or username'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4df87acd4b7e1f4d.json",
+  "parameterValues" : [ "{}", "'Missing email or username'" ]
+}

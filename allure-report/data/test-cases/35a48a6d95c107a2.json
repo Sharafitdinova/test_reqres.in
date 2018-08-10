@@ -1,0 +1,54 @@
+{
+  "uid" : "35a48a6d95c107a2",
+  "name" : "test_login_success[data1]",
+  "fullName" : "tests.post.test_login.TestLogin#test_login_success[data1]",
+  "historyId" : "99a8623357511d3296b812d127403669",
+  "time" : {
+    "start" : 1533894042815,
+    "stop" : 1533894043595,
+    "duration" : 780
+  },
+  "description" : "\n        :data: входной набор\n        ",
+  "descriptionHtml" : "<pre><code>    :data: входной набор\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "host",
+    "value" : "User-pc"
+  }, {
+    "name" : "thread",
+    "value" : "10832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.post.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'email': 1, 'password': 2}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "35a48a6d95c107a2.json",
+  "parameterValues" : [ "{'email': 1, 'password': 2}" ]
+}

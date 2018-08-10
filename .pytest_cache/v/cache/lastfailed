@@ -1,0 +1,17 @@
+{
+  "get/test_get.py::TestListGet::()::test_list_found_page_for_digit[-1]": true,
+  "get/test_get.py::TestListGet::()::test_list_found_page_for_digit[0]": true,
+  "get/test_get.py::TestListGet::()::test_list_found_page_for_digit[2]": true,
+  "get/test_get.py::TestListGet::()::test_list_found_page_for_digit[4]": true,
+  "get/test_get.py::TestSingleGet::()::test_users_found_string[some]": true,
+  "get/test_get.py::TestSingleGet::()::test_users_found_string[word]": true,
+  "tests/post/test_create.py::TestCreate::()::test_create[-1-data0]": true,
+  "tests/post/test_create.py::TestCreate::()::test_create[-1-data1]": true,
+  "tests/post/test_create.py::TestCreate::()::test_create[0-data0]": true,
+  "tests/post/test_create.py::TestCreate::()::test_create[0-data1]": true,
+  "tests/post/test_create.py::TestCreate::()::test_create[1-data0]": true,
+  "tests/post/test_create.py::TestCreate::()::test_create[1-data1]": true,
+  "tests/post/test_create.py::TestCreate::()::test_create[100-data0]": true,
+  "tests/post/test_create.py::TestCreate::()::test_create[100-data1]": true,
+  "tests/post/test_create.py::TestCreate::()::test_not_found_string[data0]": true
+}

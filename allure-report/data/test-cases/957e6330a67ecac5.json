@@ -1,0 +1,52 @@
+{
+  "uid" : "957e6330a67ecac5",
+  "name" : "test_create[data1]",
+  "fullName" : "tests.post.test_create.TestCreate#test_create[data1]",
+  "historyId" : "ed50bdd17496b3ece106466e93ae770b",
+  "time" : {
+    "start" : 1533894041347,
+    "stop" : 1533894042044,
+    "duration" : 697
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "host",
+    "value" : "User-pc"
+  }, {
+    "name" : "thread",
+    "value" : "10832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.post.test_create"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'name': '', 'job': ''}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "957e6330a67ecac5.json",
+  "parameterValues" : [ "{'name': '', 'job': ''}" ]
+}

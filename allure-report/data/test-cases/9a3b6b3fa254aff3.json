@@ -1,0 +1,54 @@
+{
+  "uid" : "9a3b6b3fa254aff3",
+  "name" : "test_login_success[data0]",
+  "fullName" : "tests.post.test_login.TestLogin#test_login_success[data0]",
+  "historyId" : "7b17d6fb7910c2e43a54320e5169aa70",
+  "time" : {
+    "start" : 1533894042083,
+    "stop" : 1533894042786,
+    "duration" : 703
+  },
+  "description" : "\n        :data: входной набор\n        ",
+  "descriptionHtml" : "<pre><code>    :data: входной набор\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "host",
+    "value" : "User-pc"
+  }, {
+    "name" : "thread",
+    "value" : "10832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.post.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'email': 'peter@klaven', 'password': 'cityslicka'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9a3b6b3fa254aff3.json",
+  "parameterValues" : [ "{'email': 'peter@klaven', 'password': 'cityslicka'}" ]
+}

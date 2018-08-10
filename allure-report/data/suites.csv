@@ -1,0 +1,169 @@
+"Status","Name","Duration in ms","Description"
+"passed","tests.get.test_users.TestListUser#test_list_not_found_data[77777]","535",""
+"passed","tests.patch.test_patch.TestPatch#test_patch_success[1-data0]","742","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.get.test_users.TestListUser#test_list_found_page_string[some]","687",""
+"passed","tests.post.test_login.TestLogin#test_login_success[data0]","703","
+        :data: входной набор
+        "
+"passed","tests.get.test_connection.TestConnection#test_connection_success","698",""
+"passed","tests.get.test_resources.TestSingleResource#test_not_found_string[word]","716",""
+"passed","tests.get.test_delay.TestDelay#test_delay[params2]","3683",""
+"passed","tests.post.test_register.TestRegister#test_register_failure[data1-Missing email or username]","679","
+        Попытки с неполными или пуcтыми парами логин/пароль
+        :data: входной набор
+        :error: ответ с ошибкой
+        "
+"passed","tests.put.test_put.TestPut#test_put_success[100-data0]","549","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.get.test_users.TestListUser#test_list_found_page_digit[4]","684","
+            :page: page для подстановки в url
+        "
+"passed","tests.get.test_resources.TestListResource#test_list_found_page_digit[2]","691","
+            :page: page для подстановки в url
+        "
+"passed","tests.put.test_put.TestPut#test_put_success[data0]","722","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.post.test_create.TestCreate#test_create[data1]","697",""
+"passed","tests.delete.test_delete.TestDelete#test_delete_with_success[0-data0]","715","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.put.test_put.TestPut#test_put_success[-1-data0]","693","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.get.test_delay.TestDelay#test_delay[params1]","707",""
+"passed","tests.get.test_resources.TestSingleResource#test_not_found_digit[23]","678","
+            :test: тестовый id для подстановки в url
+        "
+"passed","tests.put.test_put.TestPut#test_put_success[1-data0]","573","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.get.test_users.TestListUser#test_list_found_page_digit[0]","690","
+            :page: page для подстановки в url
+        "
+"passed","tests.post.test_register.TestRegister#test_register_failure[data2-Missing email or username]","704","
+        Попытки с неполными или пуcтыми парами логин/пароль
+        :data: входной набор
+        :error: ответ с ошибкой
+        "
+"passed","tests.get.test_resources.TestSingleResource#test_found[10]","707",""
+"passed","tests.post.test_login.TestLogin#test_login_success[data1]","780","
+        :data: входной набор
+        "
+"passed","tests.post.test_register.TestRegister#test_register_success[data1]","696","
+        :data: входной набор
+        "
+"passed","tests.patch.test_patch.TestPatch#test_patch_success[-1-data0]","698","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.get.test_users.TestSingleUser#test_not_found_string[some]","677",""
+"passed","tests.get.test_users.TestSingleUser#test_not_found_digit[23]","717","
+            :test: тестовый id для подстановки в url
+        "
+"passed","tests.get.test_users.TestSingleUser#test_not_found_string[word]","685",""
+"passed","tests.post.test_register.TestRegister#test_register_failure[data0-Missing password]","688","
+        Попытки с неполными или пуcтыми парами логин/пароль
+        :data: входной набор
+        :error: ответ с ошибкой
+        "
+"passed","tests.patch.test_patch.TestPatch#test_patch_success[0-data0]","564","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.get.test_resources.TestListResource#test_list_found_page_string[word]","766",""
+"passed","tests.get.test_users.TestSingleUser#test_found[10]","676",""
+"passed","tests.post.test_login.TestLogin#test_login_failure[data1-Missing email or username]","679","
+        Попытки с неполными или пуcтыми парами логин/пароль
+        :data: входной набор
+        :error: ответ с ошибкой
+        "
+"passed","tests.get.test_resources.TestSingleResource#test_not_found_string[some]","684",""
+"passed","tests.get.test_users.TestListUser#test_list_found_page_digit[2]","700","
+            :page: page для подстановки в url
+        "
+"passed","tests.post.test_create.TestCreate#test_create[data0]","716",""
+"passed","tests.patch.test_patch.TestPatch#test_patch_success[data0]","691","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.get.test_users.TestListUser#test_list_found_page_digit[-1]","679","
+            :page: page для подстановки в url
+        "
+"passed","tests.get.test_users.TestSingleUser#test_not_found_digit[0]","690","
+            :test: тестовый id для подстановки в url
+        "
+"passed","tests.get.test_resources.TestListResource#test_list_found_page_digit[-1]","697","
+            :page: page для подстановки в url
+        "
+"passed","tests.get.test_resources.TestListResource#test_list_found_page_digit[4]","725","
+            :page: page для подстановки в url
+        "
+"passed","tests.get.test_resources.TestListResource#test_list_found_page_no_params","703",""
+"passed","tests.get.test_users.TestSingleUser#test_not_found_digit[-1]","728","
+            :test: тестовый id для подстановки в url
+        "
+"passed","tests.patch.test_patch.TestPatch#test_patch_success[100-data0]","670","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.get.test_resources.TestSingleResource#test_not_found_digit[0]","745","
+            :test: тестовый id для подстановки в url
+        "
+"passed","tests.get.test_delay.TestDelay#test_delay[params0]","702",""
+"passed","tests.put.test_put.TestPut#test_put_success[0-data0]","708","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.get.test_resources.TestListResource#test_list_not_found_data[77777]","694",""
+"passed","tests.post.test_login.TestLogin#test_login_failure[data2-Missing email or username]","699","
+        Попытки с неполными или пуcтыми парами логин/пароль
+        :data: входной набор
+        :error: ответ с ошибкой
+        "
+"passed","tests.get.test_users.TestListUser#test_list_found_page_string[word]","674",""
+"passed","tests.delete.test_delete.TestDelete#test_delete_with_success[100-data0]","714","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.post.test_register.TestRegister#test_register_success[data0]","690","
+        :data: входной набор
+        "
+"passed","tests.delete.test_delete.TestDelete#test_delete_with_success[data0]","680","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.get.test_users.TestListUser#test_list_found_page_no_params","680",""
+"passed","tests.get.test_users.TestListUser#test_list_not_found_data[7]","675",""
+"passed","tests.get.test_resources.TestSingleResource#test_found[1]","748",""
+"passed","tests.delete.test_delete.TestDelete#test_delete_with_success[-1-data0]","1131","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.get.test_resources.TestListResource#test_list_not_found_data[7]","722",""
+"passed","tests.get.test_users.TestSingleUser#test_found[1]","721",""
+"passed","tests.get.test_resources.TestListResource#test_list_found_page_digit[0]","679","
+            :page: page для подстановки в url
+        "
+"passed","tests.get.test_resources.TestListResource#test_list_found_page_string[some]","692",""
+"passed","tests.get.test_resources.TestSingleResource#test_not_found_digit[-1]","687","
+            :test: тестовый id для подстановки в url
+        "
+"passed","tests.delete.test_delete.TestDelete#test_delete_with_success[2-data0]","725","
+        :data: входной набор
+        :test: id для подстановки в url
+        "
+"passed","tests.post.test_login.TestLogin#test_login_failure[data0-Missing password]","700","
+        Попытки с неполными или пуcтыми парами логин/пароль
+        :data: входной набор
+        :error: ответ с ошибкой
+        "

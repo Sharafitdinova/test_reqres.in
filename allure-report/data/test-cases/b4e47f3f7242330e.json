@@ -1,0 +1,54 @@
+{
+  "uid" : "b4e47f3f7242330e",
+  "name" : "test_not_found_digit[23]",
+  "fullName" : "tests.get.test_resources.TestSingleResource#test_not_found_digit[23]",
+  "historyId" : "ea43ba6e5e3ef7b6b1fc1ad4a4811b90",
+  "time" : {
+    "start" : 1533894014218,
+    "stop" : 1533894014896,
+    "duration" : 678
+  },
+  "description" : "\n            :test: тестовый id для подстановки в url\n        ",
+  "descriptionHtml" : "<pre><code>        :test: тестовый id для подстановки в url\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "host",
+    "value" : "User-pc"
+  }, {
+    "name" : "thread",
+    "value" : "10832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.get.test_resources"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test",
+    "value" : "23"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4e47f3f7242330e.json",
+  "parameterValues" : [ "23" ]
+}

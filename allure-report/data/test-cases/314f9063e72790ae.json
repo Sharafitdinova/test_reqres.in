@@ -1,0 +1,54 @@
+{
+  "uid" : "314f9063e72790ae",
+  "name" : "test_register_success[data0]",
+  "fullName" : "tests.post.test_register.TestRegister#test_register_success[data0]",
+  "historyId" : "7f73a12b6b494b717a72177f7340ab22",
+  "time" : {
+    "start" : 1533894045839,
+    "stop" : 1533894046529,
+    "duration" : 690
+  },
+  "description" : "\n        :data: входной набор\n        ",
+  "descriptionHtml" : "<pre><code>    :data: входной набор\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "host",
+    "value" : "User-pc"
+  }, {
+    "name" : "thread",
+    "value" : "10832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.post.test_register"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'email': 'sydney@fife', 'password': 'pistol'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "314f9063e72790ae.json",
+  "parameterValues" : [ "{'email': 'sydney@fife', 'password': 'pistol'}" ]
+}

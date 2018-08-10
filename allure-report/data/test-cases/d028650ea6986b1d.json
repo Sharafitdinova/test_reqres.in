@@ -1,0 +1,52 @@
+{
+  "uid" : "d028650ea6986b1d",
+  "name" : "test_not_found_string[some]",
+  "fullName" : "tests.get.test_resources.TestSingleResource#test_not_found_string[some]",
+  "historyId" : "5c3f4d901aac20078b4fdee4b9aac0b5",
+  "time" : {
+    "start" : 1533894014977,
+    "stop" : 1533894015661,
+    "duration" : 684
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "host",
+    "value" : "User-pc"
+  }, {
+    "name" : "thread",
+    "value" : "10832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.get.test_resources"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test",
+    "value" : "'some'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d028650ea6986b1d.json",
+  "parameterValues" : [ "'some'" ]
+}

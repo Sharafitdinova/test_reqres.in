@@ -1,0 +1,49 @@
+{
+  "uid" : "aa37deb298b3f586",
+  "name" : "test_delay[params0]",
+  "fullName" : "tests.get.test_delay.TestDelay#test_delay[params0]",
+  "historyId" : "3039b31590ac25caac55ee3bc224c298",
+  "time" : {
+    "start" : 1533894007253,
+    "stop" : 1533894007955,
+    "duration" : 702
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "User-pc"
+  }, {
+    "name" : "thread",
+    "value" : "10832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.get.test_delay"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "params",
+    "value" : "{'delay': -1}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aa37deb298b3f586.json",
+  "parameterValues" : [ "{'delay': -1}" ]
+}

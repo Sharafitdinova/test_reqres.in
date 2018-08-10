@@ -1,0 +1,57 @@
+{
+  "uid" : "b952d931f48a5b74",
+  "name" : "test_put_success[-1-data0]",
+  "fullName" : "tests.put.test_put.TestPut#test_put_success[-1-data0]",
+  "historyId" : "8d9128b8675f434d554446920de48adc",
+  "time" : {
+    "start" : 1533894049587,
+    "stop" : 1533894050280,
+    "duration" : 693
+  },
+  "description" : "\n        :data: входной набор\n        :test: id для подстановки в url\n        ",
+  "descriptionHtml" : "<pre><code>    :data: входной набор\n    :test: id для подстановки в url\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "host",
+    "value" : "User-pc"
+  }, {
+    "name" : "thread",
+    "value" : "10832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.put.test_put"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'name': 'morpheus', 'job': 'leader'}"
+  }, {
+    "name" : "test",
+    "value" : "-1"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b952d931f48a5b74.json",
+  "parameterValues" : [ "{'name': 'morpheus', 'job': 'leader'}", "-1" ]
+}

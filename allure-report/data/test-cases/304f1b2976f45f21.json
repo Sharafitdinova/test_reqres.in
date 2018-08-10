@@ -1,0 +1,54 @@
+{
+  "uid" : "304f1b2976f45f21",
+  "name" : "test_not_found_digit[23]",
+  "fullName" : "tests.get.test_users.TestSingleUser#test_not_found_digit[23]",
+  "historyId" : "3311a8826002a21a3443b17e32a9fe47",
+  "time" : {
+    "start" : 1533894026294,
+    "stop" : 1533894027011,
+    "duration" : 717
+  },
+  "description" : "\n            :test: тестовый id для подстановки в url\n        ",
+  "descriptionHtml" : "<pre><code>        :test: тестовый id для подстановки в url\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "host",
+    "value" : "User-pc"
+  }, {
+    "name" : "thread",
+    "value" : "10832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.get.test_users"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "test",
+    "value" : "23"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "304f1b2976f45f21.json",
+  "parameterValues" : [ "23" ]
+}

@@ -1,0 +1,52 @@
+{
+  "uid" : "d3ad22b1209d957b",
+  "name" : "test_create[data0]",
+  "fullName" : "tests.post.test_create.TestCreate#test_create[data0]",
+  "historyId" : "7a7207306f508b7646780d1eb52077cb",
+  "time" : {
+    "start" : 1533894040603,
+    "stop" : 1533894041319,
+    "duration" : 716
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "host",
+    "value" : "User-pc"
+  }, {
+    "name" : "thread",
+    "value" : "10832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.post.test_create"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "data",
+    "value" : "{'name': 'morpheus', 'job': 'leader'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d3ad22b1209d957b.json",
+  "parameterValues" : [ "{'name': 'morpheus', 'job': 'leader'}" ]
+}

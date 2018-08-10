@@ -1,0 +1,54 @@
+{
+  "uid" : "698d43002e8cae00",
+  "name" : "test_list_found_page_digit[4]",
+  "fullName" : "tests.get.test_resources.TestListResource#test_list_found_page_digit[4]",
+  "historyId" : "579f6cc2e89642063ebe13e5f34a6b82",
+  "time" : {
+    "start" : 1533894020190,
+    "stop" : 1533894020915,
+    "duration" : 725
+  },
+  "description" : "\n            :page: page для подстановки в url\n        ",
+  "descriptionHtml" : "<pre><code>        :page: page для подстановки в url\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "host",
+    "value" : "User-pc"
+  }, {
+    "name" : "thread",
+    "value" : "10832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.get.test_resources"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "page",
+    "value" : "4"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "698d43002e8cae00.json",
+  "parameterValues" : [ "4" ]
+}
